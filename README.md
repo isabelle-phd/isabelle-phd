@@ -1,16 +1,34 @@
-## Hi there 👋
+#👩‍💻Isabelle Santos
 
-<!--
-**isabelle-phd/isabelle-phd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Phd Candidate`**
 
-Here are some ideas to get you started:
+I am a 25-year-old PhD candidate in Social Sciences from Brazil, funded by the [São Paulo Research Foundation](https://fapesp.br/en). My research focuses on the comparative diffusion of constitutional rights and is conducted at the [DataCons Lab](https://datacons.com.br/) at [São Paulo State University](https://www2.unesp.br/). Here I document my journey in data analysis, including practical exercises developed throughout my doctoral training. I also bring prior professional and research experience in human rights, sustainability, and public policy. Let’s connect on [LinkedIn](https://www.linkedin.com/in/isabelle-sdgs/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ---
+ ### 🤖 Tech stack
+ 
+<img 
+align="left"
+alt="css"
+title="css"
+width="30px"
+style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊Statistics
+
+<p>
+<img
+align="left"
+    alt="Github Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=isabelle-phd&show_icons=true&theme=tokyonight&include_all_comits=true)"
+/>
+
+
+
